@@ -8,29 +8,6 @@ import javax.xml.bind.annotation.XmlType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 
-import com.dbcc.ecomm.core.report.section.AlertEventSection;
-import com.dbcc.ecomm.core.report.section.AlertInquirySection;
-import com.dbcc.ecomm.core.report.section.AlertScoreSection;
-import com.dbcc.ecomm.core.report.section.AlertSection;
-import com.dbcc.ecomm.core.report.section.banking.BankingSection;
-import com.dbcc.ecomm.core.report.section.benchmarking.BenchMarkingSection;
-import com.dbcc.ecomm.core.report.section.commercialCredit.CommercialCreditSection;
-import com.dbcc.ecomm.core.report.section.corporatelinkage.CorporateLinkageSection;
-import com.dbcc.ecomm.core.report.section.creditLimit.CreditLimitRecomdnSection;
-import com.dbcc.ecomm.core.report.section.creditWorthiness.CreditWorthinessSection;
-import com.dbcc.ecomm.core.report.section.dandbrating.DandBRatingSection;
-import com.dbcc.ecomm.core.report.section.financialStress.FinancialStressSection;
-import com.dbcc.ecomm.core.report.section.financialstatements.FinancialStatementsSection;
-import com.dbcc.ecomm.core.report.section.historyoperations.HistoryOperationSection;
-import com.dbcc.ecomm.core.report.section.inquiries.InquiriesSection;
-import com.dbcc.ecomm.core.report.section.paydex.PaydexSection;
-import com.dbcc.ecomm.core.report.section.payment.PaymentSection;
-import com.dbcc.ecomm.core.report.section.peer.PeerSection;
-import com.dbcc.ecomm.core.report.section.producthome.ProductHomeSection;
-import com.dbcc.ecomm.core.report.section.publicfiling.PublicFilingSection;
-import com.dbcc.ecomm.core.report.section.quicksell.QuickSellSection;
-import com.dbcc.ecomm.core.report.section.specialevents.SpecialEventsSection;
-import com.dbcc.ecomm.core.report.section.supplierEvaluation.SupplierEvaluationSection;
 
 /**
  * 
